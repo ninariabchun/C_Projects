@@ -1,8 +1,8 @@
 # Small Project in C
 
-## My_Square
+## My Square
 
-| My_Square        |      |
+| My_Square        |                             |
 |:-----------------|---------------------------- |
 | Submit Directory | ex00                        |
 | Submit file      | my_square.c                 |
@@ -29,3 +29,17 @@ my_square(1, 1) should display:
 o
 $>
 ```
+
+# My Cat
+
+| My_Square        |                             |
+|:-----------------|---------------------------- |
+| Submit Directory | ex00                        |
+| Submit file      | my_cat.c                    |
+
+
+Create a program called my_cat which does the same thing as the system's cat command used in the command-line.
+
+Your program should read the content of each files which are received as an argument to your software.
+
+Unlike the real Cat command, you don't have to handle any options. :-)
