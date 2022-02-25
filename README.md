@@ -32,7 +32,7 @@ $>
 
 ## My Cat
 
-| My_Square        |                             |
+| My_Cat           |                             |
 |:-----------------|---------------------------- |
 | Submit Directory | ex00                        |
 | Submit file      | my_cat.c                    |
@@ -46,10 +46,10 @@ Unlike the real Cat command, you don't have to handle any options. :-)
 
 ## My Ngram
 
-| My_Square        |                             |
+| My_Ngram         |                             |
 |:-----------------|---------------------------- |
 | Submit Directory | ex00                        |
-| Submit file      | my_cat.c                    |
+| Submit file      | my_ngram.c                  |
 
 SPECIFICATIONS
 Write a program my_ngram; It will count the number of occurrences per character.
